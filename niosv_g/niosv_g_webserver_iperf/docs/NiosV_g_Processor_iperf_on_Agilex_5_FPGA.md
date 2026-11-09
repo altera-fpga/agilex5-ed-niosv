@@ -1,6 +1,6 @@
-# Nios� V/g Iperf System Example Design
+# Nios V/g Iperf System Example Design
  
-This design demonstrates the Iperf application on a Nios� V/g processor using the Triple Speed Ethernet IP for the Agilex� 5 FPGA and SoC E-Series Premium Development Kit (ES) board.
+This design demonstrates the Iperf application on a Nios V/g processor using the Triple Speed Ethernet IP for the Agilex 5 FPGA and SoC E-Series Premium Development Kit (ES) board.
  
 ## Description
  
@@ -8,7 +8,7 @@ The System Example Design demonstrates iperf application. The Nios V/g acts as t
  
 The design has 2 MSGDMA IPs configured in Memory Mapped to Stream (MM2S) mode for Transmission and Stream to Memory Mapped (S2MM) mode for Reception.
  
-To test the application, connect the RGMII Interface of the Agilex� 5  FPGA board to the Link Partner using RJ-45 cable.
+To test the application, connect the RGMII Interface of the Agilex 5  FPGA board to the Link Partner using RJ-45 cable.
  
 Ensure that the IP addresses are modified accordingly in the application code under the following location - sw/app_freertos/main.c
  
@@ -62,7 +62,7 @@ Note : Any modification to the Design, Software stack or Infra will lead to a di
 
 ## Project Details
  
-- **Title**: Nios� V/g Iperf System Example Design
+- **Title**: Nios V/g Iperf System Example Design
 - **Source**: Github
 - **Design Support**: CTH
 - **Family**: Agilex 5
