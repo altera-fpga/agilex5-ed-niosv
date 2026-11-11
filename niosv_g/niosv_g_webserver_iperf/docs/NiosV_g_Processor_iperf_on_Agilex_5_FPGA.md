@@ -67,7 +67,7 @@ Note : Any modification to the Design, Software stack or Infra will lead to a di
 - **Design Support**: CTH
 - **Family**: Agilex 5
 - **Quartus Version**: 26.3
-- **Development Kit**: default
+- **Development Kit**: Agilex 5 FPGA E-Series 065B Premium Development Kit DK-A5E065BB32AES1
 - **Device Part**: A5ED065BB32AE6SR0
 - **Design Package**: agilex5_niosv_g_webserver_iperf.zip
 - **Category**: Networking
