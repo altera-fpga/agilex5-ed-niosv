@@ -34,7 +34,4 @@ The following table contains the list of the designs on Agilex 5 FPGA E-Series 0
 
 | No # | Design Name Prefix (Nios V core) | Design Name Suffix (Functions) | Description |
 | - | --- | ------ | ----------- |
-| 1 | Nios V/g | Nios® V/g Soft-SoC System Example Design | This design demonstrates the Soft-SoC System Example Design that showcases the connectivity to multiple peripherals with Nios® V/g processor as the core <br>[Design details](niosv_g/niosv_g_soft_soc_system_example_design/docs/Niosv_g_processor_soft_soc_system_example_design_on_Agilex_5_FPGA.md)|
-| 2 | Nios V/g | Nios® V/g Lockstep System Example Design | Nios® V/g Processor-based Lockstep example design on the Agilex® 5 FPGA. <br>[Design details](niosv_g/lockstep/docs/Nios_Vg_Processor_Lockstep_Design_on_Agilex_5_FPGA.md)|
-| 3 | Nios V/g | Nios® V/g Web-server Ping System Example Design | This design demonstrates the Ping application on a Nios® V/g processor using the Triple Speed Ethernet IP for the Agilex™ 5 FPGA E-Series 065B Premium Development Kit.<br>[Design details](niosv_g/niosv_g_webserver_ping/docs/Nios_Vg_Processor_Webserver_Ping_Design_on_Agilex_5_FPGA.md)|
-| 4 | Nios V/g | Nios® V/g TinyML-liteRT System Example Design | Nios® V/g Processor-based TinyML LiteRT example design on the Agilex® 5 FPGA. <br>[Design details](niosv_g/tinyml_liteRT/docs/Nios_Vg_Processor_TinyML_Design_on_Agilex_5_FPGA.md)|
+| 1 | Nios V/g | Nios V/g Iperf System Example Design | This design demonstrates the Iperf application on a Nios V/g processor using the Triple Speed Ethernet IP for the Agilex 5 FPGA and SoC E-Series Premium Development Kit (ES) board. <br>[Design details](niosv_g/niosv_g_webserver_iperf/docs/NiosV_g_Processor_iperf_on_Agilex_5_FPGA.md)|
